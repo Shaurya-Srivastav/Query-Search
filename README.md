@@ -1,1 +1,11 @@
-"# Query-Search" 
+#Query Search#
+
+Description: 
+- This project was simply created to automate searching
+for research papers.
+
+Purpose: 
+- return the first link after search for a paper.
+
+Goal: 
+- Get the accurate link for the research paper.
