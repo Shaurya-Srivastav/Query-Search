@@ -1,4 +1,4 @@
-#Query Search#
+**Query Search**
 
 Description: 
 - This project was simply created to automate searching
